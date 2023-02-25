@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(51,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(103,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(104,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(110,30): warning C4244: '-=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(121,45): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(121,109): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(122,46): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(122,112): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(130,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(130,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(138,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ACER\source\repos\Project1\Project1\Source.cpp(138,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Project1.vcxproj -> C:\Users\ACER\source\repos\Project1\x64\Debug\Project1.exe
